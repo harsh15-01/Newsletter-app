@@ -1,2 +1,2 @@
 # Newsletter-app
-basic newsletter application
+Basic newsletter application using HTML, CSS, Bootstrap, Javascript and Node.js
